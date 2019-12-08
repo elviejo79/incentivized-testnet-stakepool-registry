@@ -1,0 +1,8 @@
+{
+    "owner": "ed25519_pk1nw5xh6d7ceh57jk7dzdfyq5xrsq3var5h0jg970528c02cravrdq7syrla",
+    "name": "Example stake pool name",
+    "ticker": "EXAMP",
+    "description": "This is an example for a tutorial",
+    "homepage": "https://example.org",
+    "pledge_address": "addr1skd6s6lfhmrx7n62me5f4yszscwqz9n5wja7fqhe73glpatq04sd57f20q7"
+}
